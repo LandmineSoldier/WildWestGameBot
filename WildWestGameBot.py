@@ -4,7 +4,7 @@ import random
 import time
 from random import *
 
-token = "ODc0OTc0MjM2MjAzMTU5NjYz.YROxQg.9aIt-pEa-8hpDQIZ4P0VpLV-HpM"
+token = "yourToken"
 client = discord.Client()
 
 JimPattern = ["123456789","789456123","987654321","321654987",   "147258369","369258147","741852963","963852741"]
